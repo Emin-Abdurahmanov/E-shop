@@ -1,0 +1,121 @@
+body{
+	font-family: 'Nunito', sans-serif;
+	background-color: rgb(252, 241, 198);
+}
+.navbar{
+	width: 100%;
+	max-height: 80px;
+	position: fixed;
+	z-index: 4;
+}
+.collapse{
+	z-index: 7;
+}
+.navbar-brand{
+	margin-left: 0px;
+	font-weight: 900;
+}
+.navbar-nav{
+	margin-left: 0vw;
+	width: 350px;
+}
+.nav-item{
+	padding: 2px;
+	font-size: 16px;
+}
+.register{
+	margin-right: 20px;
+	font-weight: 900;
+	font-size: 16px;
+	color: white;
+}
+a{
+	text-decoration: none;
+}
+.active{
+	color: orange;
+}
+.login{
+	margin-right: 50px;
+	font-weight: 900;
+	font-size: 16px;
+}
+.form-inline{
+	padding: 0px 5px;
+}
+.ikon{
+	font-size: 30px;
+	color: orange;
+}
+.carousel {
+	margin-top: 15vh;
+	border-radius: 20px;
+  }
+.carousel p{
+	color: orange;
+	font-weight: 900;
+  }
+.carousel .carousel-item {
+	
+	height: 40vw;
+	border-radius: 20px;
+  }
+  .carousel .carousel-item img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 40vw;
+	border-radius: 20px;
+  }
+  #carouselButton {
+	right: 0px;
+	position: absolute;
+	bottom: 0px;
+	z-index: 1;
+  }
+
+  .row-header {
+	margin: 0px auto;
+	padding: 0px 0px;
+  }
+  .row-content {
+	margin: 0px auto;
+	padding: 50px 0px;
+	border-bottom: 1px ridge;
+	min-height: 400px;
+  }
+  .footer {
+	background-color: #d2d8fa;
+	margin: 0px auto;
+	padding: 20px 0px;
+  }
+  .breadcrumb{
+	  margin-top: 80px;
+  }
+#general{
+	margin: auto;
+	padding-top: 80px;
+		margin-bottom: 20px;
+}
+.generalText{
+	font-size: 22px;
+	font-style: bold;
+	padding-left: 140px;
+	padding-right: 140px;
+	padding-bottom: 80px;
+	text-align: center;
+	}
+.like{
+		border: none;
+		background-color: white;
+		display: inline-block;
+		margin: 0px 12px;
+}
+.card{
+	max-height: 700px;
+}
+.card-img-top{
+	max-height: 45vh;
+}
+
+

@@ -1,0 +1,17 @@
+body{
+    height: 100%;
+    font-family: 'Nunito', sans-serif;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+.form-div{
+    margin-top: 60px;
+}
+.footer{
+    position: absolute;
+    width: 100%;
+    margin-bottom: 0px;
+}

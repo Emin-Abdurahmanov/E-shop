@@ -1,0 +1,22 @@
+body{
+    height: 100%;
+    font-family: 'Nunito', sans-serif;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.form-div{
+    margin-top: 60px;
+}
+.footer{
+    position: absolute;
+    width: 100%;
+    margin-bottom: 0px;
+}
+i{
+    margin-bottom: 25px;
+}
+#form2Example3{
+padding: 10px;
+}
